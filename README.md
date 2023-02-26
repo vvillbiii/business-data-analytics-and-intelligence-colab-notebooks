@@ -1,4 +1,4 @@
-# business-data-analytics-and-intelligence-colab-notebooks
+# business data analytics and intelligence colab notebooks
 
 Some colab notebooks doing linear regression, multilinear regression, logistic regression with python. 
 
